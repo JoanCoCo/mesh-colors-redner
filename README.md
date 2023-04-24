@@ -1,7 +1,7 @@
 # Redner + Mesh colors
 This repository contains our implementation for mesh colors in redner (version of Marh 28th 2022).
 The redner repository was forked as available on [BachiLi/redner](https://github.com/BachiLi/redner/commit/f355e8c445b2cba1dd7d75b8e137d736c7270520). The original README file can be found as README_original.md.
-The extension to support mesh colors was done following Goel et al.'s previous implementaion available at [brownvc/shapefromtracing](https://github.com/brownvc/shapefromtracing).
+The extension to support mesh colors was done following Goel et al.'s previous implementaion available at [brownvc/shapefromtracing](https://github.com/brownvc/shapefromtracing/commit/f89226c8f20f1be9d6c8b7e46405872355accf2b).
 
 ## References
 ```
